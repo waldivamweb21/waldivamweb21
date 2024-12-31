@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou Estudante de Frontend e backend<br>Html5|CSS3|JavaScript & JAVA|Klotin|Python
+Sou Estudante Fullstack <br>Python
 
 
 ## 🌐 Socials:
