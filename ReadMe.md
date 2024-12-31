@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou Estudante Fullstack <br>Python
+Sou Estudante Fullstack Web<br>Nivel Jr.
 
 
 ## 🌐 Socials:
