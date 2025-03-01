@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou Estudante Fullstack Web<br>Nivel Jr.
+Sou Estudante Fullstack Web Python e Futuro Dev Java <br>Iniciante ao Nivel Jr.
 
 
 ## 🌐 Socials:
