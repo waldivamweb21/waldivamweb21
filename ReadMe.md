@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou Estudante Fullstack Web Python e Futuro Dev Java <br>Iniciante ao Nivel Jr.
+Sou Programador Fullstack Web. Html,Css,JavaScript,Sql,Mysql,PostgreSQL & Python<br> Iniciante Rumo ao Nivel Jr.
 
 
 ## 🌐 Socials:
