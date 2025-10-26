@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou Programador Fullstack Web. Html,Css,JavaScript,Sql,Mysql,PostgreSQL, nodeJS, Zod + Node, Node + SQL, Node + mongoDb, Autenticacao + OTP + JWT, Adonis + Git, Gihub, Tailwind, TypeScript, React, TanstackQuery, ReactHookForm + Zod, shadcn UI + React.js, Upload React, Next.js, Stripe. Rumo ao Nivel Jr.
+Sou Programador Fullstack Web Jr. Html,Css,JavaScript,Sql,Mysql,PostgreSQL, nodeJS, Zod + Node, Node + SQL, Node + mongoDb, Autenticacao + OTP + JWT, Adonis + Git, Gihub, Tailwind, TypeScript, React, TanstackQuery, ReactHookForm + Zod, shadcn UI + React.js, Upload React, Next.js, Stripe. Rumo ao Nivel Jr.
 
 
 ## 🌐 Socials:
