@@ -2,10 +2,10 @@
 Sou Programador Fullstack Web Jr. Html,Css,JavaScript,Sql,Mysql,PostgreSQL, nodeJS, Zod + Node, Postman, Insominia, Bruno(test Api), Node + SQL, Prisma, Node + mongoDb, Autenticacao + OTP + JWT, Adonis + Git, Gihub, Tailwind, TypeScript, React, TanstackQuery, ReactHookForm + Zod, shadcn UI + React.js, Upload React, Next.js, Stripe. Rumo ao Nivel Jr.
 
 #Portfolio
-[![Portfolio 2025/2026]().
+<EmBreve>
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/wal.alves.1460) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]() 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://br.linkedin.com/in/waldivam-silva) 
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]()
 
